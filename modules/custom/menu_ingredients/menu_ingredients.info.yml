@@ -1,0 +1,4 @@
+name: Menu Ingredients
+description: 'Menu ingredients module for Drupal 8'
+type: module
+core: 8.x
